@@ -1,1 +1,0 @@
-Iļja Komarovs
