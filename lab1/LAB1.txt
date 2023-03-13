@@ -1,5 +1,2 @@
-Initial text
-Additional text
-Additional text
 Additional text from develop
 Hotfix 1.1
